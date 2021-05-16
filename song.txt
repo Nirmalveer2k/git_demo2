@@ -1,4 +1,3 @@
 The Son is beautifull than all the stars.
-flowers are source for honeyBee to produce honey.
-next line
+The flowers are source for honeyBee to produce honey.
 
