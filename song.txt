@@ -9,3 +9,5 @@ third commit in feature
 final version commit
 
 new non conflict commit
+changes from feature
+
